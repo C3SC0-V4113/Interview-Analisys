@@ -10,7 +10,9 @@ scripts = [
     'analysis_2/analyze_flexibility_vs_motivation.py',
     'analysis_2/analyze_platforms_vs_english_conversation_skills.py',
     'analysis_2/analyze_interactivity_vs_sentiment.py',
-    'analysis_2/analyze_google_classroom_vs_time_management.py'
+    'analysis_2/analyze_google_classroom_vs_time_management.py',
+    'analysis_2/analyze_time_management_vs_microsoft_teams.py',
+    'analysis_2/analyze_time_management_vs_u_virtual.py'
 ]
 
 # Ejecutar cada script en la lista usando el intérprete de Python correcto
